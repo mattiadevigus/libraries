@@ -5,6 +5,12 @@
     For other SMTP transport watch https://nodemailer.com/smtp/
 */
 
+//ENV
+//email=youremail
+//token=yourtoken
+
+console.log("VGS Email 0.0.2");
+
 const fs = require("fs");
 const path = require("path");
 const nodemailer = require("nodemailer");
