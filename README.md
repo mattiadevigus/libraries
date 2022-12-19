@@ -1,2 +1,2 @@
 # VGS Libraries
-Base Llbraries for my projects
+Base Libraries for my projects
